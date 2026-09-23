@@ -1,6 +1,0 @@
-{
-  "name": "CityNexus AI",
-  "description": "AI-Powered Urban Issue Intelligence & Response Platform for Sustainable Cities aligned with UN SDG 11.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
